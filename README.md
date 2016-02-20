@@ -30,10 +30,10 @@ Maybe:
 Audio cues
 
 ### Research
-Google Cardboard best practices
-Google Cardboard Pass Through
-Cardboard-Java
-GPS coordinates for landmarks
+* Google Cardboard best practices
+* Google Cardboard Pass Through
+* Cardboard-Java
+* GPS coordinates for landmarks
 
 ### Order of operations:
 1. Build an empty VR app
