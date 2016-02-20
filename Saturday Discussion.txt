@@ -1,0 +1,24 @@
+Saturday Discussion
+
+Need access to:
+Back Camera
+Internet, GPS
+Compass
+Accelerometer
+
+Need to do:
+Display facts
+	Buildings/Landmarks
+View
+Navigate campus
+Ground navigation arrows
+	Dynamic positioning
+Text blurb above or in front of object
+Floating buttons, look selection
+Two modes
+	Roaming
+	Tour
+Safety disclaimer
+
+Maybe:
+Audio cues
