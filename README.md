@@ -46,3 +46,5 @@ GPS coordinates for landmarks
 8. Integrating display current GPS coordiates and distance traveled
 9. One mode implementation-tour
 10. Implement roaming
+
+## -LOCKED-
