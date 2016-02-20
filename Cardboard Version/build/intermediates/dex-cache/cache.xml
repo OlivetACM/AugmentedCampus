@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="76fb73a2d9a5aca85a71316d1903cbd05456202e">
-        <dex dex="/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_58ab385ce78d2dff329ea6666bde990d8726ba9f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f0b4065c04662f13fbb08d7ef6ecfb43dfa3b8e3">
-        <dex dex="/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_ec1ecebb58d34831014f31f1036de3f62de8711e/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />

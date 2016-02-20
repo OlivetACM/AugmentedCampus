@@ -56,7 +56,7 @@ public class CardboardOverlayView extends LinearLayout {
         addView(mRightView);
 
         // Set some reasonable defaults.
-        setDepthOffset(0.016f);
+        setDepthOffset(0.0f); //0.016f
         setColor(Color.rgb(150, 255, 180));
         setVisibility(View.VISIBLE);
 
@@ -153,14 +153,14 @@ public class CardboardOverlayView extends LinearLayout {
             // The size of the image, given as a fraction of the dimension as a ViewGroup. We multiply
             // both width and heading with this number to compute the image's bounding box. Inside the
             // box, the image is the horizontally and vertically centered.
-            final float imageSize = 0.12f;
+            final float imageSize = 0.0f; //0.12f
 
             // The fraction of this ViewGroup's height by which we shift the image off the ViewGroup's
             // center. Positive values shift downwards, negative values shift upwards.
-            final float verticalImageOffset = -0.07f;
+            final float verticalImageOffset = -0.07f; //-0.07f
 
             // Vertical position of the text, specified in fractions of this ViewGroup's height.
-            final float verticalTextPos = 0.52f;
+            final float verticalTextPos = 0.52f; //0.52f
 
             // Layout ImageView
             float imageMargin = (1.0f - imageSize) / 2.0f;

@@ -6,5 +6,13 @@
     {
         "merged": "/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/res/merged/debug/layout/common_ui.xml",
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/layout/common_ui.xml"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/layout/common_ui.xml",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/layout/common_ui.xml"
     }
 ]

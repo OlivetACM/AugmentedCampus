@@ -12,6 +12,10 @@
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/simple_vertex.shader"
     },
     {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/grid_fragment.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/grid_fragment.shader"
+    },
+    {
         "merged": "/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/res/merged/debug/raw/light_vertex.shader",
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/light_vertex.shader"
     },
@@ -20,15 +24,43 @@
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/image_vertex.shader"
     },
     {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_image_vertex.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/simple_image_vertex.shader"
+    },
+    {
         "merged": "/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_image_fragment.shader",
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/simple_image_fragment.shader"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/light_vertex.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/light_vertex.shader"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_image_fragment.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/simple_image_fragment.shader"
     },
     {
         "merged": "/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_image_vertex.shader",
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/simple_image_vertex.shader"
     },
     {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/image_fragment.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/image_fragment.shader"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/image_vertex.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/image_vertex.shader"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_fragment.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/simple_fragment.shader"
+    },
+    {
         "merged": "/Users/lewisde/Documents/Projects/Cardboard Version/app/build/intermediates/res/merged/debug/raw/grid_fragment.shader",
         "source": "/Users/lewisde/Documents/Projects/Cardboard Version/app/src/main/res/raw/grid_fragment.shader"
+    },
+    {
+        "merged": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/build/intermediates/res/merged/debug/raw/simple_vertex.shader",
+        "source": "/Users/lewisde/Documents/Projects/AugmentedCampus/Cardboard Version/app/src/main/res/raw/simple_vertex.shader"
     }
 ]
