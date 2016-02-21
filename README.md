@@ -9,25 +9,25 @@ Compass
 Accelerometer
 
 Need to do:
-Display facts
-	Buildings/Landmarks
-View
-Navigate campus
-Ground navigation arrows
-	Dynamic positioning
-Text blurb above or in front of object
-Floating buttons, look selection
-Two modes
-	Roaming
-		possibly collapsible text
-	Tour
-Safety disclaimer
-Integrate Google maps
-	possible GMap directions
-	Map is in corner of reality
+* Display facts
+ * Buildings/Landmarks
+* View
+ * Navigate campus
+* Ground navigation arrows
+ * Dynamic positioning
+* Text blurb above or in front of object
+* Floating buttons, look selection
+* Two modes
+ 1. Roaming
+  * possibly collapsible text
+ 2. Tour
+* Safety disclaimer
+* Integrate Google maps
+ * possible GMap directions
+ * Map is in corner of reality
 
 Maybe:
-Audio cues
+* Audio cues
 
 ### Research
 * Google Cardboard best practices
