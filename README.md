@@ -19,7 +19,6 @@ Need to do:
 * Floating buttons, look selection
 * Two modes
  1. Roaming
-  * possibly collapsible text
  2. Tour
 * Safety disclaimer
 * Integrate Google maps
@@ -28,6 +27,7 @@ Need to do:
 
 Maybe:
 * Audio cues
+* possibly collapsible text
 
 ### Research
 * Google Cardboard best practices
@@ -48,3 +48,11 @@ Maybe:
 10. Implement roaming
 
 ## -LOCKED-
+
+### Wish list
+* QR code reader in app to link with specific Google cardboard
+* Selection solution
+* Interactive campus game
+ * Treasur hunt
+* Building location on map in Roaming mode
+ * Dot changes color after visit
